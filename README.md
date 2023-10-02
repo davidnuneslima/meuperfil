@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **davidnuneslima/davidnuneslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Devops, Cloud e Site Reliability Engineering.
 - 📫 How to reach me: email (davidnuneslima@gmail.com) and cell phone (79) 99904-1055.
 - 😄 Pronouns: He/Him
--->
+
