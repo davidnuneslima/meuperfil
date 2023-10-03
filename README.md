@@ -1,4 +1,4 @@
-👋 Olá, sou o David Nunes.  
+👋 Olá, sou o David Nunes👨🏽‍💻.  
 
 - 👨‍👩‍👦 Pai, apaixonado pela minha família. 
 - 📖 ⚽ 🎶 🎮 Gosto de esportes, viajar, ler, música, filmes, seriados, game.
