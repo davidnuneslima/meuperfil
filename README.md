@@ -1,10 +1,6 @@
-### Hi there 👋
+👋 Olá, sou o David Nunes.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Stone
-- 🌱 I’m currently learning reliability, observability, systems performance.
-- 👯 I’m looking to collaborate on infra as code, devops, cloud, role of an SRE.
-- 🤔 I’m looking for help with technology books, especially those on Devops, Infra as code and SRE.
-- 💬 Ask me about Devops, Cloud e Site Reliability Engineering.
-
+- 👨‍👩‍👦 Pai, apaixonado pela minha família. 
+- 📖 ⚽ 🎶 🎮 Gosto de esportes, viajar, ler, música, filmes, seriados, game.
+- 🔋 Formado em Gestão em Tecnologia da Informação
+- 💻 Um entusiasmado Engenheiro de Confiabilidade de Sites (SRE) que está começando a trilhar sua jornada nesse emocionante mundo da confiabilidade e desempenho de sistemas. Minha paixão por otimizar a estabilidade, escalabilidade e eficiência está me impulsionando a mergulhar de cabeça nessa nova aventura.
