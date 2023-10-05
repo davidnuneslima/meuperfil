@@ -1,6 +1,6 @@
-👋 Olá, sou o David Nunes👨🏽‍💻.  
+👋 Hello, I'm David Nunes👨🏽‍💻.  
 
-- 👨‍👩‍👦 Pai, apaixonado pela minha família. 
-- 📖 ⚽ 🎶 🎮 Gosto de esportes, viajar, ler, música, filmes, seriados, game.
-- 🔋 Formado em Gestão em Tecnologia da Informação.
-- 💻🐧Um entusiasmado Engenheiro de Confiabilidade de Sites (SRE) que está começando a trilhar sua jornada nesse emocionante mundo da confiabilidade e desempenho de sistemas. Minha paixão por otimizar a estabilidade, escalabilidade e eficiência está me impulsionando a mergulhar de cabeça nessa nova aventura.
+- 👨‍👩‍👦 Father, in love with my family.. 
+- 📖 ⚽ 🎶 🎮 I like sports, traveling, reading, music, movies, series, games.
+- 🔋 Graduated in Management in Information Technology.
+- 💻🐧An enthusiastic Site Reliability Engineer (SRE) who is beginning his journey into this exciting world of system reliability and performance. My passion for optimizing stability, scalability and efficiency is driving me to dive head first into this new adventure.
